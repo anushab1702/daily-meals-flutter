@@ -1,4 +1,4 @@
-# first_app
+## Daily Meals Flutter App
 
 A new Flutter project.
 
